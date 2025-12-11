@@ -5,5 +5,3 @@ cornichons
 beurre
 pain
 sandwich-vegan
-panini
-
