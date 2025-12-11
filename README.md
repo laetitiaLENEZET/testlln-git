@@ -4,4 +4,5 @@ fromage
 cornichons
 beurre
 pain
-sandwich vegan
+sandwich-vegan
+panini
