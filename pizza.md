@@ -1,5 +1,5 @@
 pate
 tomate
 fromage
-jambon
+artichaud
 champignon
